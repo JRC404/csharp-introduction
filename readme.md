@@ -163,3 +163,95 @@ string fullName = firstName + " " + lastName // 1 stack
 ## Structures
 
 Struct = record representation. Individual staff details would be a record
+
+## The must do's
+
+* Class names and file names start with a captial letter and follow Pascal casing principles PascalCasingPrinciples
+
+* Classes are created with:
+```csharp
+class ClassName 
+{
+    // the brackets go on the line below the class name
+}
+```
+
+* Main method in Program.cs is the entry to our program with console applications. All code will eventually, in some way, run through that. 
+
+* Declaration of the data type that you are using is essential unless using the var keyword, which is new and some devs may not use it. 
+```csharp
+string name = "Jacob Reilly-Cooper";
+var name = "Jacob Reilly-Cooper";
+```
+
+### Operators
+
+* Arithmetic operators
+    * +, -, *, /, %, ++, --
+
+* Relational operators
+    * ==, !=, >, <, >=, <=
+
+* Logical operators
+    * &&, ||, ! (AND, OR, NOT)
+
+* Bitwise operator
+    * &, |, ^ (AND, OR, XOR)
+    * XOR = one but not the other
+
+    0011 0101
+    1011 0011
+    ---------
+    0011 0001   AND
+    1011 0111   OR
+    1000 0110   XOR
+
+    0011 1100
+    0000 1101
+    ---------
+    0000 1100   AND
+    0011 1101   OR
+    0011 0001   XOR
+
+    0101 1111
+    1101 1011
+    ---------
+    0101 1011   AND
+    1101 1111   OR
+    1000 0100   XOR
+
+* Assignment operator
+    * =, +=, -=, *=, /=
+    * &=, ^=, |=
+
+* Other operators
+    * sizeof()
+    * typeof()
+
+```javascript
+// assignment grouping
+// right to left
+let name = "Jacob";
+let age  = 55;
+
+// equality
+// left to right
+if (name == "Jacob") 
+{
+    console.log("Hello, World.")
+}
+```
+
+* Method structure
+```csharp
+// Level of access we give a method. Default is private. - public
+// return type: what value we are expecting the method to return - double
+// name of the method: Addition
+// list of parameters: double numberOne, double numberTwo
+// body of the method: the code inside the {}
+public double Addition(double numberOne, double numberTwo)
+{
+    return numberOne + numberTwo;
+}
+
+```
