@@ -1,0 +1,12 @@
+/Users/jacob/Desktop/c-sharp-master/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.deps.json
+/Users/jacob/Desktop/c-sharp-master/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.runtimeconfig.json
+/Users/jacob/Desktop/c-sharp-master/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.runtimeconfig.dev.json
+/Users/jacob/Desktop/c-sharp-master/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.dll
+/Users/jacob/Desktop/c-sharp-master/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.pdb
+/Users/jacob/Desktop/c-sharp-master/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.csprojAssemblyReference.cache
+/Users/jacob/Desktop/c-sharp-master/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.AssemblyInfoInputs.cache
+/Users/jacob/Desktop/c-sharp-master/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.AssemblyInfo.cs
+/Users/jacob/Desktop/c-sharp-master/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.csproj.CoreCompileInputs.cache
+/Users/jacob/Desktop/c-sharp-master/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.dll
+/Users/jacob/Desktop/c-sharp-master/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.pdb
+/Users/jacob/Desktop/c-sharp-master/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.genruntimeconfig.cache

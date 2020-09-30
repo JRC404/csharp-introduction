@@ -1,0 +1,12 @@
+/Users/jacob/Desktop/c-sharp-master/introduction/bin/Debug/netcoreapp3.1/introduction.deps.json
+/Users/jacob/Desktop/c-sharp-master/introduction/bin/Debug/netcoreapp3.1/introduction.runtimeconfig.json
+/Users/jacob/Desktop/c-sharp-master/introduction/bin/Debug/netcoreapp3.1/introduction.runtimeconfig.dev.json
+/Users/jacob/Desktop/c-sharp-master/introduction/bin/Debug/netcoreapp3.1/introduction.dll
+/Users/jacob/Desktop/c-sharp-master/introduction/bin/Debug/netcoreapp3.1/introduction.pdb
+/Users/jacob/Desktop/c-sharp-master/introduction/obj/Debug/netcoreapp3.1/introduction.csprojAssemblyReference.cache
+/Users/jacob/Desktop/c-sharp-master/introduction/obj/Debug/netcoreapp3.1/introduction.AssemblyInfoInputs.cache
+/Users/jacob/Desktop/c-sharp-master/introduction/obj/Debug/netcoreapp3.1/introduction.AssemblyInfo.cs
+/Users/jacob/Desktop/c-sharp-master/introduction/obj/Debug/netcoreapp3.1/introduction.csproj.CoreCompileInputs.cache
+/Users/jacob/Desktop/c-sharp-master/introduction/obj/Debug/netcoreapp3.1/introduction.dll
+/Users/jacob/Desktop/c-sharp-master/introduction/obj/Debug/netcoreapp3.1/introduction.pdb
+/Users/jacob/Desktop/c-sharp-master/introduction/obj/Debug/netcoreapp3.1/introduction.genruntimeconfig.cache

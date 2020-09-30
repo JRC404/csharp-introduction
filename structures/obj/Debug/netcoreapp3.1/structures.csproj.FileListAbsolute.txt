@@ -1,0 +1,12 @@
+/Users/jacob/Desktop/c-sharp-master/structures/obj/Debug/netcoreapp3.1/structures.csprojAssemblyReference.cache
+/Users/jacob/Desktop/c-sharp-master/structures/obj/Debug/netcoreapp3.1/structures.AssemblyInfoInputs.cache
+/Users/jacob/Desktop/c-sharp-master/structures/obj/Debug/netcoreapp3.1/structures.AssemblyInfo.cs
+/Users/jacob/Desktop/c-sharp-master/structures/obj/Debug/netcoreapp3.1/structures.csproj.CoreCompileInputs.cache
+/Users/jacob/Desktop/c-sharp-master/structures/bin/Debug/netcoreapp3.1/structures.deps.json
+/Users/jacob/Desktop/c-sharp-master/structures/bin/Debug/netcoreapp3.1/structures.runtimeconfig.json
+/Users/jacob/Desktop/c-sharp-master/structures/bin/Debug/netcoreapp3.1/structures.runtimeconfig.dev.json
+/Users/jacob/Desktop/c-sharp-master/structures/bin/Debug/netcoreapp3.1/structures.dll
+/Users/jacob/Desktop/c-sharp-master/structures/bin/Debug/netcoreapp3.1/structures.pdb
+/Users/jacob/Desktop/c-sharp-master/structures/obj/Debug/netcoreapp3.1/structures.dll
+/Users/jacob/Desktop/c-sharp-master/structures/obj/Debug/netcoreapp3.1/structures.pdb
+/Users/jacob/Desktop/c-sharp-master/structures/obj/Debug/netcoreapp3.1/structures.genruntimeconfig.cache

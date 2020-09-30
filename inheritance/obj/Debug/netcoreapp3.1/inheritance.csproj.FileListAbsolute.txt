@@ -1,0 +1,12 @@
+/Users/jacob/Desktop/c-sharp-master/inheritance/bin/Debug/netcoreapp3.1/inheritance.deps.json
+/Users/jacob/Desktop/c-sharp-master/inheritance/bin/Debug/netcoreapp3.1/inheritance.runtimeconfig.json
+/Users/jacob/Desktop/c-sharp-master/inheritance/bin/Debug/netcoreapp3.1/inheritance.runtimeconfig.dev.json
+/Users/jacob/Desktop/c-sharp-master/inheritance/bin/Debug/netcoreapp3.1/inheritance.dll
+/Users/jacob/Desktop/c-sharp-master/inheritance/bin/Debug/netcoreapp3.1/inheritance.pdb
+/Users/jacob/Desktop/c-sharp-master/inheritance/obj/Debug/netcoreapp3.1/inheritance.csprojAssemblyReference.cache
+/Users/jacob/Desktop/c-sharp-master/inheritance/obj/Debug/netcoreapp3.1/inheritance.AssemblyInfoInputs.cache
+/Users/jacob/Desktop/c-sharp-master/inheritance/obj/Debug/netcoreapp3.1/inheritance.AssemblyInfo.cs
+/Users/jacob/Desktop/c-sharp-master/inheritance/obj/Debug/netcoreapp3.1/inheritance.csproj.CoreCompileInputs.cache
+/Users/jacob/Desktop/c-sharp-master/inheritance/obj/Debug/netcoreapp3.1/inheritance.dll
+/Users/jacob/Desktop/c-sharp-master/inheritance/obj/Debug/netcoreapp3.1/inheritance.pdb
+/Users/jacob/Desktop/c-sharp-master/inheritance/obj/Debug/netcoreapp3.1/inheritance.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/jacob/Desktop/c-sharp-master/memoryLane/bin/Debug/netcoreapp3.1/memoryLane.deps.json
+/Users/jacob/Desktop/c-sharp-master/memoryLane/bin/Debug/netcoreapp3.1/memoryLane.runtimeconfig.json
+/Users/jacob/Desktop/c-sharp-master/memoryLane/bin/Debug/netcoreapp3.1/memoryLane.runtimeconfig.dev.json
+/Users/jacob/Desktop/c-sharp-master/memoryLane/bin/Debug/netcoreapp3.1/memoryLane.dll
+/Users/jacob/Desktop/c-sharp-master/memoryLane/bin/Debug/netcoreapp3.1/memoryLane.pdb
+/Users/jacob/Desktop/c-sharp-master/memoryLane/obj/Debug/netcoreapp3.1/memoryLane.csprojAssemblyReference.cache
+/Users/jacob/Desktop/c-sharp-master/memoryLane/obj/Debug/netcoreapp3.1/memoryLane.AssemblyInfoInputs.cache
+/Users/jacob/Desktop/c-sharp-master/memoryLane/obj/Debug/netcoreapp3.1/memoryLane.AssemblyInfo.cs
+/Users/jacob/Desktop/c-sharp-master/memoryLane/obj/Debug/netcoreapp3.1/memoryLane.csproj.CoreCompileInputs.cache
+/Users/jacob/Desktop/c-sharp-master/memoryLane/obj/Debug/netcoreapp3.1/memoryLane.dll
+/Users/jacob/Desktop/c-sharp-master/memoryLane/obj/Debug/netcoreapp3.1/memoryLane.pdb
+/Users/jacob/Desktop/c-sharp-master/memoryLane/obj/Debug/netcoreapp3.1/memoryLane.genruntimeconfig.cache
